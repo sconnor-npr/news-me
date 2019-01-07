@@ -1,3 +1,7 @@
+news-me is a react app that fetches news articles based on a keyword. It utilizes the NEWS API, for documentation see their [https://newsapi.org/docs](docs).
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
